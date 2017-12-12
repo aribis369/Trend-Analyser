@@ -6,6 +6,7 @@ Analyses trends in movie anticipation.
 1. python 3
   
   Libraries-
+  
 2. bs4
 3. selenium
 4. pymongo
